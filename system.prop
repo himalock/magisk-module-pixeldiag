@@ -1,0 +1,8 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+ro.vendor.build.type=userdebug
+ro.build.type=userdebug
+ro.bootmode=usbradio
+vendor.usb.config=diag,serial_cdev,rmnet_gsi
